@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1485829899396.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE79C769",
+    "lastKnownWriteTime" : 3543890281980456553,
+    "last_content_update" : 1485829899396,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "25A88558",
+        "caption" : "IMDB_database",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=IMDB_database&cache_key=25A88558",
+        "displayedObservations" : "3781",
+        "environment" : "",
+        "object" : "IMDB_database",
+        "preview" : "0",
+        "totalObservations" : "3781",
+        "variables" : "32"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
